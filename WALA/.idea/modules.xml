@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WALA.iml" filepath="$PROJECT_DIR$/WALA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhatsAppClone-fe81fca43ffd5d33bf0276506f058db6ed4aa2e9.iml" filepath="$PROJECT_DIR$/WhatsAppClone-fe81fca43ffd5d33bf0276506f058db6ed4aa2e9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
